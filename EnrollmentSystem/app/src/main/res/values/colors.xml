@@ -7,4 +7,14 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#222831</color>
+    <color name="secondary">#5E17EB</color>
+    <color name="accent">#8B89FF</color>
+    <color name="secondaryText">#808080</color>
+    <color name="yellow">#FFFD00</color>
+    <color name="primary_button">#02A502</color>
+    <color name="secondary_button">#FF0000</color>
+    <color name="blue">#0401FA</color>
+    <color name="devider">#49454F</color>
 </resources>

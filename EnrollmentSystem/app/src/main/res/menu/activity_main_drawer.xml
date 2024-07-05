@@ -1,20 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
-    <group android:checkableBehavior="single">
-        <item
-            android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
-        <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
-        <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
-    </group>
+    <item
+        android:title="@string/transaction">
+        <menu>
+            <group
+                android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/navChangePass"
+                    android:title="@string/changePassword"
+                    android:icon="@drawable/baseline_circle_24"/>
+
+                <item
+                    android:id="@+id/studentProfile"
+                    android:title="@string/studentProfile"
+                    android:icon="@drawable/baseline_circle_24"/>
+
+                <item
+                    android:id="@+id/dueAmount"
+                    android:title="@string/dueAmount"
+                    android:icon="@drawable/baseline_circle_24"/>
+
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:title="@string/reports">
+
+        <menu>
+            <group
+                android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/enrolledSubjects"
+                    android:title="@string/enrolledSubjects"
+                    android:icon="@drawable/baseline_circle_24"/>
+
+                <item
+                    android:id="@+id/curriculumEvaluation"
+                    android:title="@string/curriculumEvaluation"
+                    android:icon="@drawable/baseline_circle_24"/>
+
+                <item
+                    android:id="@+id/soa"
+                    android:title="@string/soa"
+                    android:icon="@drawable/baseline_circle_24"/>
+
+                <item
+                    android:id="@+id/schoolCalendar"
+                    android:title="@string/schoolCalendar"
+                    android:icon="@drawable/baseline_circle_24"/>
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/navLogout"
+        android:title="@string/logout"
+        android:icon="@drawable/baseline_logout_24"/>
+
 </menu>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EnrollmentSystem</string>
+    <string name="app_name">Enrollment System</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -10,4 +10,37 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="get_admitted">Get Admitted</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Blank Fragment</string>
+
+    <string name="school">Holy Trinity College Seminary Foundation Inc.</string>
+
+    <!-- login -->
+    <string name="username">Username</string>
+    <string name="enterUsername">Enter your Username</string>
+    <string name="password">Password</string>
+    <string name="enterPassword">Enter you Password</string>
+    <string name="login">Login</string>
+
+
+    <!-- navbar -->
+    <string name="transaction">Transactions</string>
+    <string name="changePassword">Change Password</string>
+    <string name="studentProfile">Student Profile</string>
+    <string name="dueAmount">Due Amount</string>
+    <string name="reports">Reports</string>
+    <string name="enrolledSubjects">Enrolled Subjects</string>
+    <string name="curriculumEvaluation">Curriculum Evaluation</string>
+    <string name="soa">Statement of Accounts</string>
+    <string name="schoolCalendar">School Calendar</string>
+    <string name="logout">Logout</string>
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
 </resources>

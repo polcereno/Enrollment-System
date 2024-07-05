@@ -13,6 +13,27 @@
         android:theme="@style/Theme.EnrollmentSystem"
         tools:targetApi="31">
         <activity
+            android:name=".student_ui.student_profile.StudentProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".student_ui.statement_of_accounts.StatementsOfAccountsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".student_ui.school_calendar.SchoolCalendarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".student_ui.enrolled_subjects.EnrolledSubjectsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".student_ui.due_amount.DueAmountActivity"
+            android:exported="false" />
+        <activity
+            android:name=".student_ui.curriculum_evaluation.CurriculumEvaluationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".student_ui.change_password.ChangePasswordActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
