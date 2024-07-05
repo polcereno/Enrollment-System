@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/layout_activity_enrolled_subjects.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_enrolled_subjects.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/layout_activity_due_amount.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_due_amount.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/layout_app_bar_main.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/layout_activity_change_password.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/layout_content_main.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/drawable_baseline_logout_24.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/drawable/baseline_logout_24.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/menu_main.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/menu/main.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/layout_activity_main.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/layout_activity_curriculum_evaluation.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_curriculum_evaluation.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/menu_activity_main_drawer.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/layout_activity_statements_of_accounts.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_statements_of_accounts.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/drawable_baseline_menu_24.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/drawable/baseline_menu_24.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/layout_nav_header_main.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/drawable_side_nav_bar.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/layout_activity_student_profile.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_student_profile.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/xml_backup_rules.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/drawable_baseline_circle_24.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/drawable/baseline_circle_24.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/navigation_student_navigation.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/navigation/student_navigation.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-debug-44:/layout_activity_school_calendar.xml.flat",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_school_calendar.xml"
+    }
+]
