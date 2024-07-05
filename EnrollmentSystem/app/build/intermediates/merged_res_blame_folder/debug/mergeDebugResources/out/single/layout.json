@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.enrollmentsystem.app-mergeDebugResources-43:/layout/activity_curriculum_evaluation.xml",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_curriculum_evaluation.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-mergeDebugResources-43:/layout/activity_change_password.xml",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-mergeDebugResources-43:/layout/activity_student_profile.xml",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_student_profile.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-mergeDebugResources-43:/layout/nav_header_main.xml",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-mergeDebugResources-43:/layout/activity_enrolled_subjects.xml",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_enrolled_subjects.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-mergeDebugResources-43:/layout/content_main.xml",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-mergeDebugResources-43:/layout/app_bar_main.xml",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-mergeDebugResources-43:/layout/activity_due_amount.xml",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_due_amount.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-mergeDebugResources-43:/layout/activity_statements_of_accounts.xml",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_statements_of_accounts.xml"
+    },
+    {
+        "merged": "com.example.enrollmentsystem.app-mergeDebugResources-43:/layout/activity_school_calendar.xml",
+        "source": "com.example.enrollmentsystem.app-main-46:/layout/activity_school_calendar.xml"
+    }
+]
