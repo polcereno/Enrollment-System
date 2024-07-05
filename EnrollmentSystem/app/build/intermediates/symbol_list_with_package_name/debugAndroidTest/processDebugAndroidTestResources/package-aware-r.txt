@@ -1,0 +1,3 @@
+com.example.enrollmentsystem.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
