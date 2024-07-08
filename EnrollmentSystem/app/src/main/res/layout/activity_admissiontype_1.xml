@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="500dp"
+        android:layout_height="70dp"
+        android:background="@color/dark_grey"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Admitted"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:fontFamily="@font/roboto_bold"
+        android:layout_marginLeft="20mm"
+        android:layout_marginTop="-50dp"/>
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="4mm"
+        android:background="@drawable/baseline_circle_24"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="7mm"
+        android:layout_marginTop="-40dp"
+        android:fontFamily="@font/roboto_bold"
+        android:text="1"
+        android:textSize="23sp" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="-622dp"
+        android:layout_marginLeft="18mm"
+        android:background="@drawable/baseline_circle_24"/>
+
+    <View
+        android:layout_width="53dp"
+        android:layout_height="11dp"
+        android:layout_marginLeft="11mm"
+        android:layout_marginTop="-25dp"
+        android:background="@color/grey" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="21mm"
+        android:layout_marginTop="-28dp"
+        android:fontFamily="@font/roboto_bold"
+        android:text="2"
+        android:textSize="23sp" />
+
+    <View
+        android:layout_width="53dp"
+        android:layout_height="11dp"
+        android:layout_marginLeft="24mm"
+        android:layout_marginTop="-11dp"
+        android:background="@color/grey" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="-35dp"
+        android:layout_marginLeft="30mm"
+        android:background="@drawable/baseline_circle_24"/>
+
+    <TextView
+        android:layout_width="61dp"
+        android:layout_height="77dp"
+        android:layout_marginLeft="33mm"
+        android:layout_marginTop="-45dp"
+        android:fontFamily="@font/roboto_bold"
+        android:text="3"
+        android:textSize="23sp" />
+
+    <View
+        android:layout_width="73dp"
+        android:layout_height="11dp"
+        android:layout_marginLeft="37mm"
+        android:layout_marginTop="-59dp"
+        android:background="@color/grey" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="-35dp"
+        android:layout_marginLeft="45mm"
+        android:background="@drawable/baseline_circle_24"/>
+
+    <TextView
+        android:layout_width="61dp"
+        android:layout_height="77dp"
+        android:layout_marginLeft="48mm"
+        android:layout_marginTop="-45dp"
+        android:fontFamily="@font/roboto_bold"
+        android:text="4"
+        android:textSize="23sp" />
+
+    <TextView
+        android:layout_width="386dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="-10dp"
+        android:text="@string/all_fields_with_are_required"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:layout_marginLeft="4mm"/>
+
+    <TextView
+        android:layout_width="321dp"
+        android:layout_height="42dp"
+        android:text="Personal Information"
+        android:textSize="23sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/roboto_bold"
+        android:layout_marginLeft="4mm"/>
+
+    <View
+        android:layout_width="350dp"
+        android:layout_height="3dp"
+        android:background="@color/grey"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="4mm"/>
+
+    <TextView
+        android:layout_width="189dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="10dp"
+        android:text="First Name*"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/roboto_regular"
+        android:layout_marginLeft="4mm"/>
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="4mm"
+        android:hint="first name"
+        android:padding="20dp"
+        android:background="@drawable/rounded_corner"/>
+
+    <TextView
+        android:layout_width="189dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="10dp"
+        android:text="Last Name*"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/roboto_regular"
+        android:layout_marginLeft="4mm"/>
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="4mm"
+        android:hint="last name"
+        android:padding="20dp"
+        android:background="@drawable/rounded_corner"/>
+
+    <TextView
+        android:layout_width="189dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="10dp"
+        android:text="Middle Name*"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/roboto_regular"
+        android:layout_marginLeft="4mm"/>
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="4mm"
+        android:hint="middle name"
+        android:padding="20dp"
+        android:background="@drawable/rounded_corner"/>
+
+    <TextView
+        android:layout_width="189dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="10dp"
+        android:text="Sex"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/roboto_regular"
+        android:layout_marginLeft="4mm"/>
+
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="4mm"
+        android:hint="sex"
+        android:padding="20dp"
+        android:background="@drawable/rounded_corner"/>
+
+    <TextView
+        android:layout_width="189dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="10dp"
+        android:text="Date of Birth*"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/roboto_regular"
+        android:layout_marginLeft="4mm"/>
+
+
+
+</LinearLayout>

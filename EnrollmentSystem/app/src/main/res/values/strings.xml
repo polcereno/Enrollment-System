@@ -43,4 +43,5 @@
 
     <string name="open_nav">Open Navigation Drawer</string>
     <string name="close_nav">Close Navigation Drawer</string>
+    <string name="all_fields_with_are_required">All fields with * are required.</string>
 </resources>
